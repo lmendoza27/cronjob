@@ -1,0 +1,2 @@
+* * * * * root echo "Hellow From Container $(date)" >> /var/log/cron.log 2>&1
+#Empty Line
