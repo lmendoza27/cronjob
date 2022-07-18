@@ -1,4 +1,4 @@
-### <center>Ejercicio Cronjob  </center>
+### <center>Ejercicio Cronjob </center>
 
 Para poder construir este proyecto damos a:
 ```sh
