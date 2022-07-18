@@ -27,3 +27,13 @@ Hecho esto veremos desde nuestra terminal en ubuntu cómo se va generando un tex
 
 Guía: https://www.markdownguide.org/basic-syntax/
 
+Ante todo recordar cuáles son los comandos para pushear por primera vez un repositorio...
+https://www.atlassian.com/git/tutorials/using-branches
+```sh
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin [URL_REPOSITORY]
+git push -u origin main
+```
